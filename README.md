@@ -1,16 +1,59 @@
-## Hi there 👋
+# 👋 Hi there, I'm Bhagirath Jha!
 
-<!--
-**BhagirathJha/BhagirathJha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 **Cyber-Security Researcher** | 🌐 **Web-Application Pentester**
+## About Me 🌐
 
-Here are some ideas to get you started:
+I am a self-taught cybersecurity enthusiast who's been diving deep into the world of online security. Over the years, I've acquired expertise in identifying broken authentication vulnerabilities and have a proficiency in the OWASP Top 10 vulnerabilities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧠 Passionate about Cybersecurity
+- 🎯 Specializing in **Vulnerability Assessment**
+- 🔍 Proficient in **OWASP Top 10 Vulnerabilities**
+
+
+#### My TryHackMe profile
+[![TryHackMe Badge](https://tryhackme.com)](https://tryhackme.com/p/BhagirathJha)
+
+## My Projects 🛠️
+
+
+
+<!--## Stats & Activity 📈
+
+<table>
+  <tr>
+    <td align="center" width="550">
+      <img src="https://github-readme-stats.vercel.app/api?username=M3hank&show_icons=true&theme=tokyonight" width="450" />
+    </td>
+    <td align="center" width="550">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M3hank&layout=compact&theme=tokyonight&langs_count=6" width="450" />
+    </td>
+    <td align="center" width="550">
+      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=M3hank&theme=tokyonight&date_format=j%20M%5B%20Y%5D&card_width=450" width="450" /></a>
+    </td>
+  </tr>
+</table> -->
+
+## Technologies & Tools ⚙️
+
+### Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?&logo=HTML5&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=GNUBASH&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-00ADD8?logo=css&logoColor=white)
+
+### Skills
+![Networking](https://img.shields.io/badge/-Networking-blue)
+![Linux](https://img.shields.io/badge/-Linux-black)
+![BurpSuite](https://img.shields.io/badge/-BurpSuite-orange)
+![CryptoGraphy](https://img.shields.io/badge/-Cryptography-lightgrey)
+![Penetration Testing](https://img.shields.io/badge/-Penetration%20Testing-brightgreen)
+![Web App Security](https://img.shields.io/badge/-Web%20App%20Security-red)
+
+### Operating Systems
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/70057473/196029766-3e5ca608-48b3-4571-8a69-fd379ff2af2f.jpg" height="40">
+  <img src="https://user-images.githubusercontent.com/70057473/196029889-d545acf6-a5da-4838-b40f-633c23f27efc.jpg" height="40">
+  <img src="https://user-images.githubusercontent.com/70057473/196030040-6c63ade1-3250-4fda-95a8-3cc63b592623.jpg" height="40">
+  <img src="https://user-images.githubusercontent.com/70057473/196030156-56ae66cd-eb70-4cc5-9585-b3c4f4700c74.jpg" height="40">
+</p>
