@@ -40,20 +40,24 @@ I am a self-taught cybersecurity enthusiast who's been diving deep into the worl
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?&logo=HTML5&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=GNUBASH&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-00ADD8?logo=css&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-00ADD8?logo=CSS&logoColor=white)
 
 ### Skills
 ![Networking](https://img.shields.io/badge/-Networking-blue)
 ![Linux](https://img.shields.io/badge/-Linux-black)
 ![BurpSuite](https://img.shields.io/badge/-BurpSuite-orange)
+![Nessus](https://img.shields.io/badge/-Nessus-darkblue)
 ![CryptoGraphy](https://img.shields.io/badge/-Cryptography-lightgrey)
 ![Penetration Testing](https://img.shields.io/badge/-Penetration%20Testing-brightgreen)
 ![Web App Security](https://img.shields.io/badge/-Web%20App%20Security-red)
+![Wapiti](https://img.shields.io/badge/-Wapiti-black)
+![ZAP](https://img.shields.io/badge/-ZAP-darkblue)
 
 ### Operating Systems
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/70057473/196029766-3e5ca608-48b3-4571-8a69-fd379ff2af2f.jpg" height="40">
-  <img src="https://user-images.githubusercontent.com/70057473/196029889-d545acf6-a5da-4838-b40f-633c23f27efc.jpg" height="40">
-  <img src="https://user-images.githubusercontent.com/70057473/196030040-6c63ade1-3250-4fda-95a8-3cc63b592623.jpg" height="40">
-  <img src="https://user-images.githubusercontent.com/70057473/196030156-56ae66cd-eb70-4cc5-9585-b3c4f4700c74.jpg" height="40">
+  <img src="https://tryhackme-images.s3.amazonaws.com/user-avatars/b39f7c073a03897c1108879fd9cb084f.png" height="40">
+  <img src="https://4.bp.blogspot.com/-L5sH-DTc3QQ/U1Csgolo72I/AAAAAAAACSM/KFNiGaJxJ0o/s1600/ubuntu_logo2.jpg" height="40">
+  <img src="https://mystickermania.com/cdn/stickers/logo/windows-512x512.png" height="40">
+  <img src="https://fossbytes.com/wp-content/uploads/2020/10/Red-Hat-Enterprise-Linux-RHEL-8.3-Announced-With-Updated-AppStream.jpg" height="40">
+  <img src="https://www.hrkgame.com/media/screens/microsoft-windows-server-2022-datacenter/winserver_800x500.jpg" height="40">
 </p>
