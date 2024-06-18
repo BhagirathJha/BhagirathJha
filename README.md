@@ -13,11 +13,11 @@ I am a self-taught cybersecurity enthusiast who's been diving deep into the worl
 #### My TryHackMe profile
 [![TryHackMe Badge](https://img.shields.io/badge/-TryHackMe-da0000?&logo=TryHackMe&logoColor=white)](https://tryhackme.com/p/BhagirathJha)
 
-## My Projects 🛠️
+<!--## My Projects 🛠️
 
 
 
-<!--## Stats & Activity 📈
+## Stats & Activity 📈
 
 <table>
   <tr>
