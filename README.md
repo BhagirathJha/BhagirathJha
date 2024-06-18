@@ -12,8 +12,7 @@ I am a self-taught cybersecurity enthusiast who's been diving deep into the worl
 
 #### My TryHackMe profile
 [![TryHackMe Badge](https://img.shields.io/badge/-TryHackMe-da0000?&logo=TryHackMe&logoColor=white)](https://tryhackme.com/p/BhagirathJha)
-![HackTheBox Badge](https://img.shields.io/badge/-HackTheBox-black?&logo=HackTheBox&logoColor=00ff00)
-![HackTheBox Badge](https://img.shields.io/badge/-HackTheBox-747474?&logo=HackTheBox&logoColor=00ff00)
+![HackTheBox Badge](https://img.shields.io/badge/-HackTheBox-4e4e4e?&logo=HackTheBox&logoColor=00ff00)
 
 <!--## My Projects 🛠️
 
