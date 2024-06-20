@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Bhagirath Jha!
-
+ 
 🔍 **Cyber-Security Researcher** | 🌐 **Web-Application Pentester**
 ## About Me 🌐
 
@@ -10,9 +10,11 @@ I am a self-taught cybersecurity enthusiast who's been diving deep into the worl
 - 🔍 Proficient in **OWASP Top 10 Vulnerabilities**
 
 
-#### My TryHackMe profile
+### My Learning Platform 🎓
+
+
 [![TryHackMe Badge](https://img.shields.io/badge/-TryHackMe-da0000?&logo=TryHackMe&logoColor=white)](https://tryhackme.com/p/BhagirathJha)
-![HackTheBox Badge](https://img.shields.io/badge/-HackTheBox-4e4e4e?&logo=HackTheBox&logoColor=00ff00)
+![HackTheBox Badge](https://img.shields.io/badge/-HackTheBox-00008b?&logo=HackTheBox&logoColor=7cfc00)
 
 <!--## My Projects 🛠️
 
